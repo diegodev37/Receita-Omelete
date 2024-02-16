@@ -20,7 +20,7 @@ p {
 }
 
 h1 {
-    font-weight: 600;
+    font-weight: 400;
     margin-top: 10px;
     text-align: start;
 }
@@ -82,7 +82,7 @@ span {
 
 table {
     padding: 10px;
-    border: solid 3px;
+    border: solid 1px;
     width: 500px;
     margin-top: 10px;
 }
@@ -128,8 +128,7 @@ td {
         margin-top: 5px;
     }
     
-    
-
+ 
     
     
    
